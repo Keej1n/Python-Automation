@@ -1,0 +1,986 @@
+2022-05-05 21:10:36,370 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:10:36,371 - logger.py INFO: 
+
+2022-05-05 21:10:36,371 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:10:37,166 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:10:37,166 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:10:37,356 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:11:08,243 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:11:08,243 - logger.py INFO: 
+
+2022-05-05 21:11:08,243 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:11:08,833 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:11:08,833 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:11:09,016 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:11:10,635 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:11:15,894 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:11:20,897 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:11:20,914 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:11:20,922 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:11:20,929 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:11:20,937 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:11:20,944 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:11:20,951 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:11:20,959 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:11:20,966 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:11:20,975 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:11:20,983 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:11:20,991 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:11:20,998 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:12:30,501 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:12:30,502 - logger.py INFO: 
+
+2022-05-05 21:12:30,502 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:12:31,117 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:12:31,117 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:12:31,303 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:12:32,894 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:12:37,808 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:12:42,819 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:12:42,834 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:12:42,842 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:12:42,850 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:12:42,857 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:12:42,864 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:12:42,871 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:12:42,879 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:12:42,888 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:12:42,899 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:12:42,906 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:12:42,913 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:12:42,921 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:12:43,104 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:12:43,104 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:12:44,402 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:12:44,403 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:12:44,743 - logger.py INFO: There is no [win64] edgedriver for browser 101.0.1210 in cache
+2022-05-05 21:12:44,744 - logger.py INFO: Trying to download new driver from https://msedgedriver.azureedge.net/101.0.1210.32/edgedriver_win64.zip
+2022-05-05 21:12:49,096 - logger.py INFO: Driver has been saved in cache [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32]
+2022-05-05 21:12:53,097 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:12:55,853 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:13:00,860 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:13:00,862 - 05.05_Lesson 1_IS.py ERROR: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80F05+659205]
+	Ordinal0 [0x00007FF6EFB60EAB+528043]
+	Ordinal0 [0x00007FF6EFBDA214+1024532]
+	Ordinal0 [0x00007FF6EFBEAFF2+1093618]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:15:28,898 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:15:28,898 - logger.py INFO: 
+
+2022-05-05 21:15:28,898 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:15:29,518 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:15:29,518 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:15:29,761 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:15:31,431 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:15:36,483 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:15:41,483 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:15:41,498 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:15:41,516 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:15:41,531 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:15:41,539 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:15:41,546 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:15:41,553 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:15:41,561 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:15:41,570 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:15:41,578 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:15:41,586 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:15:41,593 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:15:41,601 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:15:41,767 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:15:41,767 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:15:42,725 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:15:42,726 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:15:42,971 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:15:49,809 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:16:01,965 - 05.05_Lesson 1_IS.py ERROR: Message: chrome not reachable
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80DBB+658875]
+	Ordinal0 [0x00007FF6EFB70052+589906]
+	Ordinal0 [0x00007FF6EFB709F5+592373]
+	Ordinal0 [0x00007FF6EFB728DD+600285]
+	Ordinal0 [0x00007FF6EFB6B08F+569487]
+	Ordinal0 [0x00007FF6EFB822C1+664257]
+	Ordinal0 [0x00007FF6EFBEB04D+1093709]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:16:01,965 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:16:14,133 - 05.05_Lesson 1_IS.py ERROR: Message: chrome not reachable
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80DBB+658875]
+	Ordinal0 [0x00007FF6EFB70052+589906]
+	Ordinal0 [0x00007FF6EFB709F5+592373]
+	Ordinal0 [0x00007FF6EFB728DD+600285]
+	Ordinal0 [0x00007FF6EFB6B08F+569487]
+	Ordinal0 [0x00007FF6EFB822C1+664257]
+	Ordinal0 [0x00007FF6EFBEB04D+1093709]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:16:28,047 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:16:28,047 - logger.py INFO: 
+
+2022-05-05 21:16:28,047 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:16:28,648 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:16:28,648 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:16:28,831 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:16:30,468 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:16:35,650 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:16:40,661 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:16:40,677 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:16:40,689 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:16:40,701 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:16:40,709 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:16:40,718 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:16:40,725 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:16:40,732 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:16:40,739 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:16:40,749 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:16:40,756 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:16:40,763 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:16:40,770 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:16:40,941 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:16:40,941 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:16:41,872 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:16:41,872 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:16:42,108 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:16:47,582 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:16:59,745 - 05.05_Lesson 1_IS.py ERROR: Message: chrome not reachable
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80DBB+658875]
+	Ordinal0 [0x00007FF6EFB70052+589906]
+	Ordinal0 [0x00007FF6EFB709F5+592373]
+	Ordinal0 [0x00007FF6EFB728DD+600285]
+	Ordinal0 [0x00007FF6EFB6B08F+569487]
+	Ordinal0 [0x00007FF6EFB822C1+664257]
+	Ordinal0 [0x00007FF6EFBEB04D+1093709]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:16:59,745 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:17:06,829 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:17:06,830 - logger.py INFO: 
+
+2022-05-05 21:17:06,830 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:17:07,521 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:17:07,521 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:17:07,750 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:17:09,409 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:17:14,521 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:17:19,528 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:17:19,543 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:17:19,557 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:17:19,570 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:17:19,577 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:17:19,584 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:17:19,592 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:17:19,598 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:17:19,605 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:17:19,614 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:17:19,621 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:17:19,629 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:17:19,636 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:17:19,804 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:17:19,805 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:17:20,953 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:17:20,953 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:17:21,202 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:17:22,224 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:17:30,335 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:17:30,335 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:17:30,335 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:17:30,335 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:19:59,507 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:19:59,507 - logger.py INFO: 
+
+2022-05-05 21:19:59,507 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:20:00,142 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:20:00,142 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:20:00,328 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:20:02,078 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:20:06,777 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:20:11,782 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:20:11,800 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:20:11,817 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:20:11,838 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:20:11,856 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:20:11,874 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:20:11,890 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:20:11,904 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:20:11,913 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:20:11,924 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:20:11,933 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:20:11,941 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:20:11,949 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:20:12,136 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:20:12,136 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:20:13,786 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:20:13,786 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:20:14,099 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:20:15,112 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:20:23,270 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:20:23,270 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:20:23,270 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:20:23,271 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:22:14,946 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:22:14,946 - logger.py INFO: 
+
+2022-05-05 21:22:14,946 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:22:15,553 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:22:15,553 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:22:15,795 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:22:17,390 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:22:21,996 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:22:27,009 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:22:27,033 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:22:27,051 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:22:27,073 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:22:27,089 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:22:27,106 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:22:27,126 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:22:27,152 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:22:27,177 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:22:27,201 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:22:27,209 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:22:27,220 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:22:27,229 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:22:27,477 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:22:27,478 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:22:28,459 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:22:32,528 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:22:32,528 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:22:32,528 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:22:32,529 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:23:24,287 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:23:24,287 - logger.py INFO: 
+
+2022-05-05 21:23:24,287 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:23:25,006 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:23:25,007 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:23:25,194 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:23:26,875 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:23:31,748 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:23:36,752 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:23:36,768 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:23:36,783 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:23:36,795 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:23:36,807 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:23:36,819 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:23:36,831 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:23:36,845 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:23:36,858 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:23:36,872 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:23:36,880 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:23:36,889 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:23:36,908 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:23:37,124 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:23:37,124 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:23:38,462 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:23:42,525 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:23:42,525 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:23:42,526 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:23:42,526 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:24:24,909 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:24:24,909 - logger.py INFO: 
+
+2022-05-05 21:24:24,910 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:24:25,579 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:24:25,580 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:24:25,768 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:24:27,442 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:24:34,185 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:24:39,201 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:24:39,216 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:24:39,230 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:24:39,244 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:24:39,257 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:24:39,269 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:24:39,284 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:24:39,296 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:24:39,308 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:24:39,320 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:24:39,327 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:24:39,335 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:24:39,342 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:24:39,542 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:24:39,542 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:24:40,477 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:24:40,477 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:24:41,041 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:24:46,636 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:24:58,789 - 05.05_Lesson 1_IS.py ERROR: Message: chrome not reachable
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80DBB+658875]
+	Ordinal0 [0x00007FF6EFB70052+589906]
+	Ordinal0 [0x00007FF6EFB709F5+592373]
+	Ordinal0 [0x00007FF6EFB728DD+600285]
+	Ordinal0 [0x00007FF6EFB6B08F+569487]
+	Ordinal0 [0x00007FF6EFB822C1+664257]
+	Ordinal0 [0x00007FF6EFBEB04D+1093709]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:24:58,789 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:25:10,955 - 05.05_Lesson 1_IS.py ERROR: Message: chrome not reachable
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80DBB+658875]
+	Ordinal0 [0x00007FF6EFB70052+589906]
+	Ordinal0 [0x00007FF6EFB709F5+592373]
+	Ordinal0 [0x00007FF6EFB728DD+600285]
+	Ordinal0 [0x00007FF6EFB6B08F+569487]
+	Ordinal0 [0x00007FF6EFB822C1+664257]
+	Ordinal0 [0x00007FF6EFBEB04D+1093709]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:26:56,117 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:26:56,117 - logger.py INFO: 
+
+2022-05-05 21:26:56,118 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:26:56,776 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:26:56,776 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:26:56,972 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:26:58,674 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:27:03,931 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:27:08,941 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:27:08,956 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:27:08,968 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:27:08,981 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:27:08,995 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:27:09,007 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:27:09,019 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:27:09,032 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:27:09,046 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:27:09,064 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:27:09,076 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:27:09,089 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:27:09,101 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:27:09,262 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:27:09,262 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:27:10,296 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:27:10,297 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:27:10,589 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:27:11,596 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:27:19,775 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:27:19,775 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:27:19,775 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:27:19,775 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:28:08,307 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:28:08,308 - logger.py INFO: 
+
+2022-05-05 21:28:08,308 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:28:09,116 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:28:09,117 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:28:09,380 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:28:10,986 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:28:15,789 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:28:20,793 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:28:20,810 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:28:20,823 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:28:20,836 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:28:20,848 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:28:20,861 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:28:20,874 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:28:20,886 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:28:20,900 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:28:20,914 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:28:20,929 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:28:20,942 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:28:20,955 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:28:21,129 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:28:21,129 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:28:22,144 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:28:26,219 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:28:26,219 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:28:26,219 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:28:26,220 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:29:10,918 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:29:10,918 - logger.py INFO: 
+
+2022-05-05 21:29:10,918 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:29:11,791 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:29:11,791 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:29:11,993 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:29:13,551 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:29:18,542 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:29:23,544 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:29:23,561 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:29:23,574 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:29:23,586 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:29:23,599 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:29:23,611 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:29:23,623 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:29:23,637 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:29:23,654 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:29:23,668 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:29:23,680 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:29:23,695 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:29:23,707 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:29:27,887 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:29:27,887 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:29:28,769 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:29:28,769 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:29:29,023 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:29:34,791 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:29:46,925 - 05.05_Lesson 1_IS.py ERROR: Message: chrome not reachable
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80DBB+658875]
+	Ordinal0 [0x00007FF6EFB70052+589906]
+	Ordinal0 [0x00007FF6EFB709F5+592373]
+	Ordinal0 [0x00007FF6EFB728DD+600285]
+	Ordinal0 [0x00007FF6EFB6B08F+569487]
+	Ordinal0 [0x00007FF6EFB822C1+664257]
+	Ordinal0 [0x00007FF6EFBEB04D+1093709]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:29:46,925 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:29:59,055 - 05.05_Lesson 1_IS.py ERROR: Message: chrome not reachable
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80DBB+658875]
+	Ordinal0 [0x00007FF6EFB70052+589906]
+	Ordinal0 [0x00007FF6EFB709F5+592373]
+	Ordinal0 [0x00007FF6EFB728DD+600285]
+	Ordinal0 [0x00007FF6EFB6B08F+569487]
+	Ordinal0 [0x00007FF6EFB822C1+664257]
+	Ordinal0 [0x00007FF6EFBEB04D+1093709]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:30:02,076 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:30:02,076 - logger.py INFO: 
+
+2022-05-05 21:30:02,076 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:30:02,742 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:30:02,742 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:30:02,927 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:30:04,566 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:30:09,530 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:30:14,541 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:30:14,555 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:30:14,570 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:30:14,582 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:30:14,595 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:30:14,609 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:30:14,622 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:30:14,635 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:30:14,648 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:30:14,662 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:30:14,675 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:30:14,687 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:30:14,699 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:30:14,860 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:30:14,860 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:30:15,772 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:30:15,772 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:30:16,030 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:30:18,705 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:30:26,848 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:30:26,849 - logger.py INFO: 
+
+2022-05-05 21:30:26,849 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:30:27,461 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:30:27,461 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:30:27,652 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:30:29,277 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:30:33,840 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:30:38,854 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:30:38,873 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:30:38,890 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:30:38,907 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:30:38,925 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:30:38,941 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:30:38,958 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:30:38,975 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:30:38,992 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:30:39,012 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:30:39,029 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:30:39,046 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:30:39,062 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:30:39,338 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:30:39,338 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:30:40,328 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:30:40,328 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:30:40,554 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:30:42,582 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:30:46,671 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:30:46,671 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:30:46,671 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:30:46,671 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:30:55,743 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:30:55,743 - logger.py INFO: 
+
+2022-05-05 21:30:55,744 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:30:56,334 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:30:56,334 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:30:56,515 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:30:58,092 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:31:02,881 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:31:07,883 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:31:07,897 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:31:07,910 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:31:07,923 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:31:07,935 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:31:07,947 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:31:07,959 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:31:07,973 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:31:07,988 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:31:08,004 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:31:08,016 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:31:08,029 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:31:08,042 - 05.05_Lesson 1_IS.py INFO: search is done successfully
+2022-05-05 21:41:39,654 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:41:39,654 - logger.py INFO: 
+
+2022-05-05 21:41:39,655 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:41:40,269 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:41:40,269 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:41:40,513 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:41:42,184 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:41:47,152 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:41:52,163 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:41:52,187 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:41:52,199 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:41:52,213 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:41:52,226 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:41:52,242 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:41:52,255 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:41:52,267 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:41:52,282 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:41:52,296 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:41:52,309 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:41:52,322 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:41:52,346 - 05.05_Lesson 1_IS.py ERROR: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id="iframe-example-div"]/fieldset/ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="iframe-example-div"]/fieldset/' is not a valid XPath expression.
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007EB8F3+2406643]
+	Ordinal0 [0x0077AF31+1945393]
+	Ordinal0 [0x0066C748+837448]
+	Ordinal0 [0x0066F154+848212]
+	Ordinal0 [0x0066F012+847890]
+	Ordinal0 [0x0066F2A0+848544]
+	Ordinal0 [0x00698FF5+1019893]
+	Ordinal0 [0x0069957B+1021307]
+	Ordinal0 [0x006C63AC+1205164]
+	Ordinal0 [0x006B42C4+1131204]
+	Ordinal0 [0x006C4682+1197698]
+	Ordinal0 [0x006B4096+1130646]
+	Ordinal0 [0x0068E636+976438]
+	Ordinal0 [0x0068F546+980294]
+	GetHandleVerifier [0x00A59612+2498066]
+	GetHandleVerifier [0x00A4C920+2445600]
+	GetHandleVerifier [0x00884F2A+579370]
+	GetHandleVerifier [0x00883D36+574774]
+	Ordinal0 [0x00781C0B+1973259]
+	Ordinal0 [0x00786688+1992328]
+	Ordinal0 [0x00786775+1992565]
+	Ordinal0 [0x0078F8D1+2029777]
+	BaseThreadInitThunk [0x753EFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77557A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x77557A4E+238]
+
+2022-05-05 21:41:52,461 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:41:52,461 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:41:53,552 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:41:53,552 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:41:53,862 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:41:55,888 - 05.05_Lesson 1_IS.py ERROR: edge driver not initialized
+2022-05-05 21:41:59,977 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:41:59,977 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:41:59,977 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:41:59,977 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:42:06,035 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:42:06,035 - logger.py INFO: 
+
+2022-05-05 21:42:06,035 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:42:06,678 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:42:06,678 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:42:06,868 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:42:08,608 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:42:13,906 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:42:18,910 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:42:18,924 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:42:18,939 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:42:18,952 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:42:18,964 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:42:18,977 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:42:18,989 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:42:19,002 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:42:19,016 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:42:19,033 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:42:19,045 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:42:19,058 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:42:19,079 - 05.05_Lesson 1_IS.py ERROR: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id="iframe-example-div"]/fieldset/ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="iframe-example-div"]/fieldset/' is not a valid XPath expression.
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007EB8F3+2406643]
+	Ordinal0 [0x0077AF31+1945393]
+	Ordinal0 [0x0066C748+837448]
+	Ordinal0 [0x0066F154+848212]
+	Ordinal0 [0x0066F012+847890]
+	Ordinal0 [0x0066F2A0+848544]
+	Ordinal0 [0x00698FF5+1019893]
+	Ordinal0 [0x0069957B+1021307]
+	Ordinal0 [0x006C63AC+1205164]
+	Ordinal0 [0x006B42C4+1131204]
+	Ordinal0 [0x006C4682+1197698]
+	Ordinal0 [0x006B4096+1130646]
+	Ordinal0 [0x0068E636+976438]
+	Ordinal0 [0x0068F546+980294]
+	GetHandleVerifier [0x00A59612+2498066]
+	GetHandleVerifier [0x00A4C920+2445600]
+	GetHandleVerifier [0x00884F2A+579370]
+	GetHandleVerifier [0x00883D36+574774]
+	Ordinal0 [0x00781C0B+1973259]
+	Ordinal0 [0x00786688+1992328]
+	Ordinal0 [0x00786775+1992565]
+	Ordinal0 [0x0078F8D1+2029777]
+	BaseThreadInitThunk [0x753EFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77557A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x77557A4E+238]
+
+2022-05-05 21:42:19,251 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:42:19,251 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:42:20,290 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:42:20,290 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:42:20,529 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:42:26,013 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:42:31,086 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:42:36,095 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:42:36,110 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:42:36,123 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:42:36,135 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:42:36,152 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:42:36,164 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:42:36,179 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:42:36,192 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:42:36,204 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:42:36,218 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:42:36,233 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:42:36,250 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:42:36,277 - 05.05_Lesson 1_IS.py ERROR: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id="iframe-example-div"]/fieldset/ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="iframe-example-div"]/fieldset/' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80F05+659205]
+	Ordinal0 [0x00007FF6EFB844FA+673018]
+	Ordinal0 [0x00007FF6EFB8427B+672379]
+	Ordinal0 [0x00007FF6EFB84630+673328]
+	Ordinal0 [0x00007FF6EFBBBF08+900872]
+	Ordinal0 [0x00007FF6EFBBC403+902147]
+	Ordinal0 [0x00007FF6EFBEE3C7+1106887]
+	Ordinal0 [0x00007FF6EFBD76DF+1013471]
+	Ordinal0 [0x00007FF6EFBEB9E7+1096167]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:42:36,427 - 05.05_Lesson 1_IS.py INFO: Starting test for firefox driver
+2022-05-05 21:42:36,427 - logger.py INFO: 
+
+2022-05-05 21:42:36,427 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:42:37,496 - logger.py INFO: Could not get version for firefox.Is firefox installed?
+2022-05-05 21:42:37,496 - logger.py INFO: Get LATEST geckodriver version for None firefox
+2022-05-05 21:42:37,677 - logger.py INFO: There is no [win64] geckodriver for browser None in cache
+2022-05-05 21:42:37,677 - logger.py INFO: Getting latest mozilla release info for v0.30.0
+2022-05-05 21:42:37,975 - logger.py INFO: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-win64.zip
+2022-05-05 21:42:39,384 - logger.py INFO: Driver has been saved in cache [C:\Users\Eldarbo\.wdm\drivers\geckodriver\win64\v0.30.0]
+2022-05-05 21:42:40,551 - 05.05_Lesson 1_IS.py ERROR: firefox driver not initialized
+2022-05-05 21:42:44,630 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:42:44,630 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:42:44,630 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:42:44,631 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-05 21:47:34,854 - 05.05_Lesson 1_IS.py INFO: Starting test for chrome driver
+2022-05-05 21:47:34,854 - logger.py INFO: 
+
+2022-05-05 21:47:34,855 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:47:35,860 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-05 21:47:35,860 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-05 21:47:36,119 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-05 21:47:38,340 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:47:43,651 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:47:48,654 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:47:48,674 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:47:48,694 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:47:48,710 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:47:48,723 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:47:48,735 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:47:48,749 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:47:48,764 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:47:48,782 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:47:48,801 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:47:48,819 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:47:48,834 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:47:48,868 - 05.05_Lesson 1_IS.py ERROR: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id="iframe-example-div"]/fieldset/ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="iframe-example-div"]/fieldset/' is not a valid XPath expression.
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007EB8F3+2406643]
+	Ordinal0 [0x0077AF31+1945393]
+	Ordinal0 [0x0066C748+837448]
+	Ordinal0 [0x0066F154+848212]
+	Ordinal0 [0x0066F012+847890]
+	Ordinal0 [0x0066F2A0+848544]
+	Ordinal0 [0x00698FF5+1019893]
+	Ordinal0 [0x0069957B+1021307]
+	Ordinal0 [0x006C63AC+1205164]
+	Ordinal0 [0x006B42C4+1131204]
+	Ordinal0 [0x006C4682+1197698]
+	Ordinal0 [0x006B4096+1130646]
+	Ordinal0 [0x0068E636+976438]
+	Ordinal0 [0x0068F546+980294]
+	GetHandleVerifier [0x00A59612+2498066]
+	GetHandleVerifier [0x00A4C920+2445600]
+	GetHandleVerifier [0x00884F2A+579370]
+	GetHandleVerifier [0x00883D36+574774]
+	Ordinal0 [0x00781C0B+1973259]
+	Ordinal0 [0x00786688+1992328]
+	Ordinal0 [0x00786775+1992565]
+	Ordinal0 [0x0078F8D1+2029777]
+	BaseThreadInitThunk [0x753EFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77557A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x77557A4E+238]
+
+2022-05-05 21:47:49,087 - 05.05_Lesson 1_IS.py INFO: Starting test for edge driver
+2022-05-05 21:47:49,087 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:47:50,464 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-05 21:47:50,464 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-05 21:47:50,837 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.32\msedgedriver.exe] found in cache
+2022-05-05 21:47:57,402 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:48:02,567 - 05.05_Lesson 1_IS.py INFO: url is opened successfully
+2022-05-05 21:48:07,569 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:48:07,583 - 05.05_Lesson 1_IS.py INFO: try to find select class
+2022-05-05 21:48:07,596 - 05.05_Lesson 1_IS.py INFO: try to find multiple element
+2022-05-05 21:48:07,608 - 05.05_Lesson 1_IS.py INFO: try to find checkbox
+2022-05-05 21:48:07,621 - 05.05_Lesson 1_IS.py INFO: try to find switch window
+2022-05-05 21:48:07,632 - 05.05_Lesson 1_IS.py INFO: try to find switch tab
+2022-05-05 21:48:07,649 - 05.05_Lesson 1_IS.py INFO: try to find switch to alert
+2022-05-05 21:48:07,661 - 05.05_Lesson 1_IS.py INFO: try to find web table
+2022-05-05 21:48:07,674 - 05.05_Lesson 1_IS.py INFO: try to find enabled/disabled
+2022-05-05 21:48:07,686 - 05.05_Lesson 1_IS.py INFO: try to find element displayed
+2022-05-05 21:48:07,698 - 05.05_Lesson 1_IS.py INFO: try to find mouse hover
+2022-05-05 21:48:07,711 - 05.05_Lesson 1_IS.py INFO: try to find iframe
+2022-05-05 21:48:07,732 - 05.05_Lesson 1_IS.py ERROR: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id="iframe-example-div"]/fieldset/ because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="iframe-example-div"]/fieldset/' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=101.0.1210.32)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::unpack [0x00007FF6F013CC22+24658]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F007D312+539986]
+	Ordinal0 [0x00007FF6EFB80F05+659205]
+	Ordinal0 [0x00007FF6EFB844FA+673018]
+	Ordinal0 [0x00007FF6EFB8427B+672379]
+	Ordinal0 [0x00007FF6EFB84630+673328]
+	Ordinal0 [0x00007FF6EFBBBF08+900872]
+	Ordinal0 [0x00007FF6EFBBC403+902147]
+	Ordinal0 [0x00007FF6EFBEE3C7+1106887]
+	Ordinal0 [0x00007FF6EFBD76DF+1013471]
+	Ordinal0 [0x00007FF6EFBEB9E7+1096167]
+	Ordinal0 [0x00007FF6EFBD74B3+1012915]
+	Ordinal0 [0x00007FF6EFBAE440+844864]
+	Ordinal0 [0x00007FF6EFBAF848+849992]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE417D8+120584]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE2CE1E+36174]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF6EFE3001C+48972]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6EFC80716+30806]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00845E1+569377]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F0089014+588372]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F008916D+588717]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00007FF6F00928FE+627518]
+	BaseThreadInitThunk [0x00007FF8B64D7034+20]
+	RtlUserThreadStart [0x00007FF8B83A2651+33]
+
+2022-05-05 21:48:07,926 - 05.05_Lesson 1_IS.py INFO: Starting test for firefox driver
+2022-05-05 21:48:07,926 - logger.py INFO: 
+
+2022-05-05 21:48:07,926 - logger.py INFO: ====== WebDriver manager ======
+2022-05-05 21:48:09,028 - logger.py INFO: Could not get version for firefox.Is firefox installed?
+2022-05-05 21:48:09,028 - logger.py INFO: Get LATEST geckodriver version for None firefox
+2022-05-05 21:48:09,203 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-05-05 21:48:12,262 - 05.05_Lesson 1_IS.py ERROR: firefox driver not initialized
+2022-05-05 21:48:14,280 - 05.05_Lesson 1_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-05 21:48:14,281 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'get'
+2022-05-05 21:48:14,281 - 05.05_Lesson 1_IS.py INFO: try to find radio button
+2022-05-05 21:48:14,281 - 05.05_Lesson 1_IS.py ERROR: 'NoneType' object has no attribute 'find_elements'
+2022-05-10 09:15:25,874 - 05.05_Lesson 2_IS.py INFO: Starting test for chrome driver
+2022-05-10 09:15:25,875 - logger.py INFO: 
+
+2022-05-10 09:15:25,875 - logger.py INFO: ====== WebDriver manager ======
+2022-05-10 09:15:26,983 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-10 09:15:26,983 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-10 09:15:27,295 - logger.py INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+2022-05-10 09:15:29,868 - logger.py INFO: Driver has been saved in cache [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+2022-05-10 09:15:33,359 - 05.05_Lesson 2_IS.py INFO: try to navigate to https://courses.letskodeit.com/practice
+2022-05-10 09:15:38,830 - 05.05_Lesson 2_IS.py INFO: url is opened successfully
+2022-05-10 09:15:43,840 - 05.05_Lesson 2_IS.py INFO: try to find radio button
+2022-05-10 09:15:55,961 - 05.05_Lesson 2_IS.py ERROR: Message: chrome not reachable
+  (Session info: chrome=101.0.4951.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00C2B8F3+2406643]
+	Ordinal0 [0x00BBAF31+1945393]
+	Ordinal0 [0x00AAC610+837136]
+	Ordinal0 [0x00AA0442+787522]
+	Ordinal0 [0x00AA0C78+789624]
+	Ordinal0 [0x00AA24B2+795826]
+	Ordinal0 [0x00A9BF09+769801]
+	Ordinal0 [0x00AADAC0+842432]
+	Ordinal0 [0x00B03E62+1195618]
+	Ordinal0 [0x00AF4096+1130646]
+	Ordinal0 [0x00ACE636+976438]
+	Ordinal0 [0x00ACF546+980294]
+	GetHandleVerifier [0x00E99612+2498066]
+	GetHandleVerifier [0x00E8C920+2445600]
+	GetHandleVerifier [0x00CC4F2A+579370]
+	GetHandleVerifier [0x00CC3D36+574774]
+	Ordinal0 [0x00BC1C0B+1973259]
+	Ordinal0 [0x00BC6688+1992328]
+	Ordinal0 [0x00BC6775+1992565]
+	Ordinal0 [0x00BCF8D1+2029777]
+	BaseThreadInitThunk [0x755DFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776E7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x776E7A4E+238]
+

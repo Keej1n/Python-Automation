@@ -1,0 +1,127 @@
+2022-05-11 15:30:50,363 - 11.05_Lesson 3_IS.py INFO: Starting test for chrome driver
+2022-05-11 15:30:50,363 - logger.py INFO: 
+
+2022-05-11 15:30:50,363 - logger.py INFO: ====== WebDriver manager ======
+2022-05-11 15:30:51,002 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-11 15:30:51,002 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-11 15:30:51,182 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-11 15:31:00,170 - 11.05_Lesson 3_IS.py INFO: try to send first name
+2022-05-11 15:31:00,304 - 11.05_Lesson 3_IS.py INFO: first name sent successfully
+2022-05-11 15:31:00,304 - 11.05_Lesson 3_IS.py INFO: try to send last name
+2022-05-11 15:31:00,410 - 11.05_Lesson 3_IS.py INFO: last name sent successfully
+2022-05-11 15:31:00,410 - 11.05_Lesson 3_IS.py INFO: try to send email
+2022-05-11 15:31:00,608 - 11.05_Lesson 3_IS.py INFO: email sent successfully
+2022-05-11 15:31:00,609 - 11.05_Lesson 3_IS.py INFO: try to send password
+2022-05-11 15:31:00,765 - 11.05_Lesson 3_IS.py INFO: password sent successfully
+2022-05-11 15:31:00,765 - 11.05_Lesson 3_IS.py INFO: try to send password repeat
+2022-05-11 15:31:00,901 - 11.05_Lesson 3_IS.py INFO: password repeat sent successfully
+2022-05-11 15:31:00,902 - 11.05_Lesson 3_IS.py INFO: try to click submit button
+2022-05-11 15:31:05,495 - 11.05_Lesson 3_IS.py INFO: submit button clicked successfully
+2022-05-11 15:31:05,497 - 11.05_Lesson 3_IS.py INFO: First test completed successfully
+2022-05-11 15:31:07,498 - 11.05_Lesson 3_IS.py INFO: try to click Germany checkbox
+2022-05-11 15:31:07,577 - 11.05_Lesson 3_IS.py INFO: Germany checkbox clicked successfully
+2022-05-11 15:31:07,577 - 11.05_Lesson 3_IS.py INFO: try to click Mexico checkbox
+2022-05-11 15:31:07,646 - 11.05_Lesson 3_IS.py INFO: Mexico checkbox clicked successfully
+2022-05-11 15:31:07,647 - 11.05_Lesson 3_IS.py INFO: try to click Austria checkbox
+2022-05-11 15:31:07,712 - 11.05_Lesson 3_IS.py INFO: Austria checkbox clicked successfully
+2022-05-11 15:31:07,712 - 11.05_Lesson 3_IS.py INFO: try to click Canada checkbox
+2022-05-11 15:31:07,800 - 11.05_Lesson 3_IS.py INFO: Canada checkbox clicked successfully
+2022-05-11 15:31:07,800 - 11.05_Lesson 3_IS.py INFO: try to click Italy checkbox
+2022-05-11 15:31:07,866 - 11.05_Lesson 3_IS.py INFO: Italy checkbox clicked successfully
+2022-05-11 15:31:07,866 - 11.05_Lesson 3_IS.py INFO: Second test completed successfully
+2022-05-11 15:31:10,166 - 11.05_Lesson 3_IS.py INFO: Starting test for edge driver
+2022-05-11 15:31:10,167 - logger.py INFO: ====== WebDriver manager ======
+2022-05-11 15:31:11,442 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-11 15:31:11,442 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-11 15:31:12,006 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.39\msedgedriver.exe] found in cache
+2022-05-11 15:31:25,432 - 11.05_Lesson 3_IS.py INFO: try to send first name
+2022-05-11 15:31:25,560 - 11.05_Lesson 3_IS.py INFO: first name sent successfully
+2022-05-11 15:31:25,561 - 11.05_Lesson 3_IS.py INFO: try to send last name
+2022-05-11 15:31:25,682 - 11.05_Lesson 3_IS.py INFO: last name sent successfully
+2022-05-11 15:31:25,683 - 11.05_Lesson 3_IS.py INFO: try to send email
+2022-05-11 15:31:25,850 - 11.05_Lesson 3_IS.py INFO: email sent successfully
+2022-05-11 15:31:25,851 - 11.05_Lesson 3_IS.py INFO: try to send password
+2022-05-11 15:31:26,002 - 11.05_Lesson 3_IS.py INFO: password sent successfully
+2022-05-11 15:31:26,003 - 11.05_Lesson 3_IS.py INFO: try to send password repeat
+2022-05-11 15:31:26,151 - 11.05_Lesson 3_IS.py INFO: password repeat sent successfully
+2022-05-11 15:31:26,152 - 11.05_Lesson 3_IS.py INFO: try to click submit button
+2022-05-11 15:31:29,045 - 11.05_Lesson 3_IS.py INFO: submit button clicked successfully
+2022-05-11 15:31:29,045 - 11.05_Lesson 3_IS.py INFO: First test completed successfully
+2022-05-11 15:31:31,056 - 11.05_Lesson 3_IS.py INFO: try to click Germany checkbox
+2022-05-11 15:31:31,139 - 11.05_Lesson 3_IS.py INFO: Germany checkbox clicked successfully
+2022-05-11 15:31:31,139 - 11.05_Lesson 3_IS.py INFO: try to click Mexico checkbox
+2022-05-11 15:31:31,204 - 11.05_Lesson 3_IS.py INFO: Mexico checkbox clicked successfully
+2022-05-11 15:31:31,204 - 11.05_Lesson 3_IS.py INFO: try to click Austria checkbox
+2022-05-11 15:31:31,269 - 11.05_Lesson 3_IS.py INFO: Austria checkbox clicked successfully
+2022-05-11 15:31:31,269 - 11.05_Lesson 3_IS.py INFO: try to click Canada checkbox
+2022-05-11 15:31:31,332 - 11.05_Lesson 3_IS.py INFO: Canada checkbox clicked successfully
+2022-05-11 15:31:31,332 - 11.05_Lesson 3_IS.py INFO: try to click Italy checkbox
+2022-05-11 15:31:31,395 - 11.05_Lesson 3_IS.py INFO: Italy checkbox clicked successfully
+2022-05-11 15:31:31,395 - 11.05_Lesson 3_IS.py INFO: Second test completed successfully
+2022-05-11 15:35:12,940 - 11.05_Lesson 3_IS.py INFO: Starting test for chrome driver
+2022-05-11 15:35:12,940 - logger.py INFO: 
+
+2022-05-11 15:35:12,940 - logger.py INFO: ====== WebDriver manager ======
+2022-05-11 15:35:13,531 - logger.py INFO: Current google-chrome version is 101.0.4951
+2022-05-11 15:35:13,531 - logger.py INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-05-11 15:35:13,767 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+2022-05-11 15:35:22,019 - 11.05_Lesson 3_IS.py INFO: try to send first name
+2022-05-11 15:35:22,127 - 11.05_Lesson 3_IS.py INFO: first name sent successfully
+2022-05-11 15:35:22,128 - 11.05_Lesson 3_IS.py INFO: try to send last name
+2022-05-11 15:35:22,224 - 11.05_Lesson 3_IS.py INFO: last name sent successfully
+2022-05-11 15:35:22,224 - 11.05_Lesson 3_IS.py INFO: try to send email
+2022-05-11 15:35:22,353 - 11.05_Lesson 3_IS.py INFO: email sent successfully
+2022-05-11 15:35:22,354 - 11.05_Lesson 3_IS.py INFO: try to send password
+2022-05-11 15:35:22,465 - 11.05_Lesson 3_IS.py INFO: password sent successfully
+2022-05-11 15:35:22,465 - 11.05_Lesson 3_IS.py INFO: try to send password repeat
+2022-05-11 15:35:22,582 - 11.05_Lesson 3_IS.py INFO: password repeat sent successfully
+2022-05-11 15:35:22,582 - 11.05_Lesson 3_IS.py INFO: try to click submit button
+2022-05-11 15:35:25,202 - 11.05_Lesson 3_IS.py INFO: submit button clicked successfully
+2022-05-11 15:35:25,202 - 11.05_Lesson 3_IS.py INFO: First test completed successfully
+2022-05-11 15:35:27,205 - 11.05_Lesson 3_IS.py INFO: try to click Germany checkbox
+2022-05-11 15:35:27,277 - 11.05_Lesson 3_IS.py INFO: Germany checkbox clicked successfully
+2022-05-11 15:35:27,278 - 11.05_Lesson 3_IS.py INFO: try to click Mexico checkbox
+2022-05-11 15:35:27,359 - 11.05_Lesson 3_IS.py INFO: Mexico checkbox clicked successfully
+2022-05-11 15:35:27,359 - 11.05_Lesson 3_IS.py INFO: try to click Austria checkbox
+2022-05-11 15:35:27,423 - 11.05_Lesson 3_IS.py INFO: Austria checkbox clicked successfully
+2022-05-11 15:35:27,423 - 11.05_Lesson 3_IS.py INFO: try to click Canada checkbox
+2022-05-11 15:35:27,483 - 11.05_Lesson 3_IS.py INFO: Canada checkbox clicked successfully
+2022-05-11 15:35:27,483 - 11.05_Lesson 3_IS.py INFO: try to click Italy checkbox
+2022-05-11 15:35:27,555 - 11.05_Lesson 3_IS.py INFO: Italy checkbox clicked successfully
+2022-05-11 15:35:27,556 - 11.05_Lesson 3_IS.py INFO: Second test completed successfully
+2022-05-11 15:35:29,817 - 11.05_Lesson 3_IS.py INFO: Starting test for edge driver
+2022-05-11 15:35:29,817 - logger.py INFO: ====== WebDriver manager ======
+2022-05-11 15:35:30,680 - logger.py INFO: Current edge version is 101.0.1210
+2022-05-11 15:35:30,681 - logger.py INFO: Get LATEST edgedriver version for 101.0.1210 Edge
+2022-05-11 15:35:30,983 - logger.py INFO: Driver [C:\Users\Eldarbo\.wdm\drivers\edgedriver\win64\101.0.1210.39\msedgedriver.exe] found in cache
+2022-05-11 15:35:43,421 - 11.05_Lesson 3_IS.py INFO: try to send first name
+2022-05-11 15:35:43,543 - 11.05_Lesson 3_IS.py INFO: first name sent successfully
+2022-05-11 15:35:43,543 - 11.05_Lesson 3_IS.py INFO: try to send last name
+2022-05-11 15:35:43,650 - 11.05_Lesson 3_IS.py INFO: last name sent successfully
+2022-05-11 15:35:43,650 - 11.05_Lesson 3_IS.py INFO: try to send email
+2022-05-11 15:35:43,804 - 11.05_Lesson 3_IS.py INFO: email sent successfully
+2022-05-11 15:35:43,804 - 11.05_Lesson 3_IS.py INFO: try to send password
+2022-05-11 15:35:43,994 - 11.05_Lesson 3_IS.py INFO: password sent successfully
+2022-05-11 15:35:43,994 - 11.05_Lesson 3_IS.py INFO: try to send password repeat
+2022-05-11 15:35:44,135 - 11.05_Lesson 3_IS.py INFO: password repeat sent successfully
+2022-05-11 15:35:44,135 - 11.05_Lesson 3_IS.py INFO: try to click submit button
+2022-05-11 15:35:47,844 - 11.05_Lesson 3_IS.py INFO: submit button clicked successfully
+2022-05-11 15:35:47,844 - 11.05_Lesson 3_IS.py INFO: First test completed successfully
+2022-05-11 15:35:49,845 - 11.05_Lesson 3_IS.py INFO: try to click Germany checkbox
+2022-05-11 15:35:49,943 - 11.05_Lesson 3_IS.py INFO: Germany checkbox clicked successfully
+2022-05-11 15:35:49,943 - 11.05_Lesson 3_IS.py INFO: try to click Mexico checkbox
+2022-05-11 15:35:50,005 - 11.05_Lesson 3_IS.py INFO: Mexico checkbox clicked successfully
+2022-05-11 15:35:50,005 - 11.05_Lesson 3_IS.py INFO: try to click Austria checkbox
+2022-05-11 15:35:50,080 - 11.05_Lesson 3_IS.py INFO: Austria checkbox clicked successfully
+2022-05-11 15:35:50,080 - 11.05_Lesson 3_IS.py INFO: try to click Canada checkbox
+2022-05-11 15:35:50,149 - 11.05_Lesson 3_IS.py INFO: Canada checkbox clicked successfully
+2022-05-11 15:35:50,149 - 11.05_Lesson 3_IS.py INFO: try to click Italy checkbox
+2022-05-11 15:35:50,212 - 11.05_Lesson 3_IS.py INFO: Italy checkbox clicked successfully
+2022-05-11 15:35:50,213 - 11.05_Lesson 3_IS.py INFO: Second test completed successfully
+2022-05-11 15:35:52,480 - 11.05_Lesson 3_IS.py INFO: Starting test for firefox driver
+2022-05-11 15:35:52,480 - logger.py INFO: 
+
+2022-05-11 15:35:52,481 - logger.py INFO: ====== WebDriver manager ======
+2022-05-11 15:35:53,920 - logger.py INFO: Could not get version for firefox.Is firefox installed?
+2022-05-11 15:35:53,920 - logger.py INFO: Get LATEST geckodriver version for None firefox
+2022-05-11 15:35:53,939 - 11.05_Lesson 3_IS.py ERROR: firefox driver not initialized
